@@ -28,12 +28,12 @@ Welcome to the React Weather App repository! This project is a weather applicati
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/bernixCodes/PWA_react.git](https://github.com/bernixCodes/PWA_react.git)
+   git clone https://github.com/bernixCodes/PWA_react.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd react-weather-app
+   cd PWA_react
    ```
 
 3. Install dependencies:
